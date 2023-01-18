@@ -12,9 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I'm interested in deep learning theory (e.g. adversarial robustness), privacy in machine learning, exact numerical algorithms, and I dabble in cryptography. 
   I have been working with Prof. Julia Kempe, Prof. Chee Yap, and Prof. Marshall Ball on deep learning theory, exact numerical algorithms, and cryptography (NIZKs), respectively. 
   I'm currently applying to graduate programs. 
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text:
 keywords: ya shi, ya shi zhang, yashi, andrew, andrew zhang, nyu  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -43,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout

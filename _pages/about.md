@@ -17,8 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Ya Shi Zhang, Yashi Zhang, or Andrew Zhang. I'm an undergraduate senior at <a href='https://www.nyu.edu/'>New York University</a> studying Mathematics (Hons) and Computer Science (Hons). 
+Hi! My name is Ya Shi Zhang, Yashi Zhang, or Andrew Zhang. I'm an undergraduate senior at <a href='https://www.nyu.edu/'>New York University</a> studying Mathematics (Honors) and Computer Science (Honors). I was born in Beijing, China and grew up in Vancouver, Canada. 
 
 I'm interested in machine learning, numerical algorithms, theoretical computer science, and topics in the broad discipline of computational mathematics and data science. I have been working with Prof. Julia Kempe, Prof. Chee Yap, and Prof. Marshall Ball on adversarial robustness & deep learning theory, exact numerical algorithms, and non-interactive zero-knowledge proofs, respectively. 
+
+Some topics that have intrigued me recently: Bayesian deep learning, adversarial machine learning, dataset distillation (amongst other meta-learning algorithms), differential privacy, error correcting codes, and Koopman theory (for dynamical systems). 
 
 I'm currently applying to graduate and residency programs.
