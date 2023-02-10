@@ -9,18 +9,17 @@ profile:
   address: >
     <p>(347) 554-4707</p>
     <p>yashi.zhang@nyu.edu</p>
-    <p>100 W 31st St</p>
     <p>New York, NY 10001</p>
     
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! My name is Ya Shi Zhang, Yashi Zhang, or Andrew Zhang. I'm an undergraduate senior at <a href='https://www.nyu.edu/'>New York University</a> studying Mathematics (Honors) and Computer Science (Honors). I was born in Beijing, China and grew up in Vancouver, Canada. 
 
-I'm interested in machine learning, numerical algorithms, theoretical computer science, and topics in the broad discipline of computational mathematics and data science. I have been working with Prof. Julia Kempe, Prof. Chee Yap, and Prof. Marshall Ball on adversarial robustness & deep learning theory, exact numerical algorithms, and non-interactive zero-knowledge proofs, respectively. 
+I'm interested in machine learning, numerical algorithms, theoretical computer science, and topics in the broad discipline of computational mathematics and data science. I have been working with Prof. <a href='https://cims.nyu.edu/~kempe/'>Julia Kempe</a>, Prof. <a href='https://cs.nyu.edu/yap/'>Chee Yap</a>, and Prof. <a href='https://cs.nyu.edu/~mmb586/index.html'>Marshall Ball</a> on adversarial robustness & deep learning theory, exact numerical algorithms, and non-interactive zero-knowledge proofs, respectively. 
 
-Some topics that have intrigued me recently: Bayesian deep learning, adversarial machine learning, dataset distillation (amongst other meta-learning algorithms), differential privacy, error correcting codes, and Koopman theory (for dynamical systems). 
+Topics I want to explore: Bayesian learning, dataset distillation, privacy & fairness, error correcting codes, and Koopman theory. 
 
 I'm currently applying to graduate and residency programs.
