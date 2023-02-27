@@ -20,6 +20,6 @@ Hi! My name is Ya Shi Zhang, Yashi Zhang, or Andrew Zhang. I'm an undergraduate 
 
 I'm interested in machine learning, numerical algorithms, theoretical computer science, and topics in the broad discipline of computational mathematics and data science. I have been working with Prof. <a href='https://cims.nyu.edu/~kempe/'>Julia Kempe</a>, Prof. <a href='https://cs.nyu.edu/yap/'>Chee Yap</a>, and Prof. <a href='https://cs.nyu.edu/~mmb586/index.html'>Marshall Ball</a> on adversarial robustness & deep learning theory, exact numerical algorithms, and non-interactive zero-knowledge proofs, respectively. 
 
-Topics I want to explore: Bayesian learning, dataset distillation, privacy & fairness, error correcting codes, and Koopman theory. 
+Topics I want to explore: Statistical learning, Bayesian learning, large language models, and modeling & simulation in the physical sciences.
 
 I'm currently applying to graduate and residency programs.
