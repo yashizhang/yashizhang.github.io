@@ -9,7 +9,7 @@ profile:
   address: >
     <p>(347) 554-4707</p>
     <p>yashi.zhang@nyu.edu</p>
-    <p>Cambridge, U.K. CB4 3BF</p>
+    <p>Cambridge CB4 3BF, U.K.</p>
     
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
