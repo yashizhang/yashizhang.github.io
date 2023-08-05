@@ -21,3 +21,4 @@ Hi! My name is Ya Shi Zhang, Yashi Zhang, or Andrew Zhang. I'm a masters student
 I'm interested in machine learning and topics in the broad discipline of computational mathematics and data science. I'm currently working with Prof. <a href='https://cims.nyu.edu/~kempe/'>Julia Kempe</a> and Prof. <a href='https://timrudner.com/'>Tim G. J. Rudner</a>. Previously, I've worked with Prof. <a href='https://cs.nyu.edu/yap/'>Chee Yap</a> and Prof. <a href='https://cs.nyu.edu/~mmb586/index.html'>Marshall Ball</a> on exact numerical algorithms and non-interactive zero-knowledge proofs respectively. 
 
 Topics I want to explore: Statistical and Bayesian learning, Monte Carlo methods, and applications of machine learning in scientific computing and the social sciences.
+
