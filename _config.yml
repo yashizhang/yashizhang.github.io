@@ -8,12 +8,9 @@ middle_name:
 last_name: Zhang
 email: yashi.zhang@nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi! My name is Ya Shi Zhang, or Andrew Zhang. I'm a senior at New York University studying Mathematics as well as Computer Science.
-  I'm interested in deep learning theory (e.g. adversarial robustness), privacy in machine learning, exact numerical algorithms, and I dabble in cryptography. 
-  I have been working with Prof. Julia Kempe, Prof. Chee Yap, and Prof. Marshall Ball on deep learning theory, exact numerical algorithms, and cryptography (NIZKs), respectively. 
-  I'm currently applying to graduate programs. 
+  Hi! My name is Ya Shi Zhang, or Andrew Zhang.
 footer_text:
-keywords: ya shi, ya shi zhang, yashi, andrew, andrew zhang, nyu  # add your own keywords or leave empty
+keywords: ya shi, ya shi zhang, yashi, andrew, andrew zhang, nyu, cambridge, machine learning, deep learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎲  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
